@@ -1,2 +1,2 @@
 # Coporate-Fin
-Projects focusing on Traditional Finance
+Projects focusing on Traditional Finance, and Consulting
